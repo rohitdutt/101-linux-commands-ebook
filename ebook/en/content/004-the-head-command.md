@@ -1,4 +1,3 @@
-```html
 <h1>
   	<a href="https://github.com/bobbyiliev/101-linux-commands-ebook/blob/main/ebook/en/content/004-the-head-command.md">
     	the-head-command.md
@@ -33,5 +32,3 @@ this command will display the first 10 lines of file foo.txt
 <br>
 syntax: 
  <span style="background-color: #C0C0C0; padding: 5px; border-radius: 4px">head -n <~number> foo.txt</span>
-
-```
