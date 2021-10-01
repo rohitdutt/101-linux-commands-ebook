@@ -1,14 +1,32 @@
+<p align="center"><img src="https://imgur.com/SJKJThl.png" height="450" width="auto"></p>
+
+<div align="center">
+    <p>
+	    <a name="stars"><img src="https://img.shields.io/github/stars/bobbyiliev/101-linux-commands-ebook?style=for-the-badge"></a>
+	    <a name="forks"><img src="https://img.shields.io/github/forks/bobbyiliev/101-linux-commands-ebook?logoColor=green&style=for-the-badge"></a>
+	    <a name="contributions"><img src="https://img.shields.io/github/contributors/bobbyiliev/101-linux-commands-ebook?logoColor=green&style=for-the-badge"></a>
+	    <a name="madeWith"><img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=for-the-badge"></a>
+	    <a name="license"><img src="https://img.shields.io/github/license/bobbyiliev/101-linux-commands-ebook?style=for-the-badge"></a>
+    </p>
+</div>
+
 ## 💻 101 Linux commands Open-source eBook
 
 This is an open-source eBook with 101 Linux commands that everyone should know. No matter if you are a DevOps/SysOps engineer, developer, or just a Linux enthusiast, you will most likely have to use the terminal at some point in your career.
 
 ## List of commands:
 
+If you want to contribute, feel free to pick up a topic marked as `TODO` and submit a pull request 🙌
+
+Feel free to add new topics in case that you don't find one that you like from the current list.
+
+---
+
 * TODO: [001-the-ls-command.md](ebook/en/content/001-the-ls-command.md)
 * TODO: [002-the-cd-command.md](ebook/en/content/002-the-cd-command.md)
 * TODO: [003-the-cat-tac-command.md](ebook/en/content/003-the-cat-tac-command.md)
-* TODO: [004-the-head-command.md](ebook/en/content/004-the-head-command.md)
-* TODO: [005-the-tail-command.md](ebook/en/content/005-the-tail-command.md)
+* [004-the-head-command.md](ebook/en/content/004-the-head-command.md)
+* [005-the-tail-command.md](ebook/en/content/005-the-tail-command.md)
 * TODO: [006-the-pwd-command.md](ebook/en/content/006-the-pwd-command.md)
 * TODO: [007-the-touch-command.md](ebook/en/content/007-the-touch-command.md)
 * TODO: [008-the-cal-command.md](ebook/en/content/008-the-cal-command.md)
@@ -17,7 +35,7 @@ This is an open-source eBook with 101 Linux commands that everyone should know. 
 * TODO: [011-the-help-command.md](ebook/en/content/011-the-help-command.md)
 * TODO: [012-the-factor-command.md](ebook/en/content/012-the-factor-command.md)
 * TODO: [013-the-uname-command.md](ebook/en/content/013-the-uname-command.md)
-* TODO: [014-the-mkdir-command.md](ebook/en/content/014-the-mkdir-command.md)
+* [014-the-mkdir-command.md](ebook/en/content/014-the-mkdir-command.md)
 * TODO: [015-the-gzip-command.md](ebook/en/content/015-the-gzip-command.md)
 * TODO: [016-the-whatis-command.md](ebook/en/content/016-the-whatis-command.md)
 * TODO: [017-the-who-command.md](ebook/en/content/017-the-who-command.md)
