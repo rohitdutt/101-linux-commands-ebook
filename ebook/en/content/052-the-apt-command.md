@@ -1,9 +1,9 @@
 
 # The `apt` command
 
-`apt`(Advantage package system) command is used for interating with `dpkg`(packaging system used by debian). There is already `dpkg` command to manage it. but `apt` is more user-friendly and efficient way.
+`apt`(Advantage package system) command is used for interating with `dpkg`(packaging system used by debian). There is already `dpkg` command to manage `.deb` packages. But `apt` is more user-friendly and efficient way.
 	
-In simple terms `apt` is a command used for installing, deleting and other operations on debian based linux.
+In simple terms `apt` is a command used for installing, deleting and other operations on debian based Linux.
 	
 You will be using `apt` command mostly with `sudo` privileges.
 
